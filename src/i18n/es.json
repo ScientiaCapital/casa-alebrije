@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "rooms": "Habitaciones",
+    "about": "Nosotros",
+    "location": "Ubicación",
+    "contact": "Contacto",
+    "bookNow": "Reservar"
+  },
+  "hero": {
+    "title": "Tu Alebrije Te Espera",
+    "subtitle": "en Coyoacán",
+    "description": "7 suites únicas inspiradas en animales espirituales mexicanos, a 5 minutos del Museo Frida Kahlo",
+    "cta": "Reserva Directo y Ahorra",
+    "explore": "Explorar Habitaciones"
+  },
+  "rooms": {
+    "title": "Nuestras Suites",
+    "subtitle": "Cada habitación es un homenaje a un alebrije guardián único",
+    "from": "Desde",
+    "perNight": "/noche",
+    "guests": "huéspedes",
+    "viewRoom": "Ver Habitación",
+    "bookNow": "Reservar"
+  },
+  "about": {
+    "title": "El Espíritu del Alebrije",
+    "subtitle": "Donde la herencia mexicana se encuentra con el confort moderno",
+    "description": "Casa Alebrije es un santuario donde la rica herencia de los zapotecas de Oaxaca se entrelaza con la imaginación desbordante de los alebrijes. Inspirado en la antigua civilización de Monte Albán, nuestro hotel revive la creencia en los tonas y nahuales—animales espirituales que, según los zapotecas, protegen y guían a cada persona desde su nacimiento.",
+    "readMore": "Lee Nuestra Historia"
+  },
+  "location": {
+    "title": "Ubicación Privilegiada",
+    "subtitle": "En el corazón del mágico Coyoacán",
+    "fridaKahlo": "5 min caminando al Museo Frida Kahlo",
+    "coyoacan": "Barrio histórico de Coyoacán",
+    "markets": "Mercados artesanales y cafés bohemios",
+    "getDirections": "Cómo Llegar"
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Huéspedes",
+    "subtitle": "Experiencias que hablan por sí solas"
+  },
+  "amenities": {
+    "title": "Amenidades y Servicios",
+    "coffee": "Estación de Café 24 horas",
+    "garden": "Jardín Tranquilo",
+    "spa": "Servicios de Spa en Habitación",
+    "wifi": "WiFi de Alta Velocidad",
+    "ac": "Aire Acondicionado",
+    "tv": "TV por Cable"
+  },
+  "footer": {
+    "contact": "Contáctanos",
+    "hours": "Horarios de Recepción",
+    "hoursTueSat": "Mar-Sáb: 7:00 AM - 10:00 PM",
+    "hoursSunMon": "Dom-Lun: 7:00 AM - 6:00 PM",
+    "followUs": "Síguenos",
+    "rights": "Todos los derechos reservados"
+  },
+  "cta": {
+    "checkAvailability": "Verificar Disponibilidad",
+    "bookDirect": "Reservar Directo"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "rooms": "Rooms",
+    "about": "About",
+    "location": "Location",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "title": "Your Alebrije Awaits",
+    "subtitle": "in Coyoacán",
+    "description": "7 unique suites inspired by Mexican spirit animals, 5 minutes from Frida Kahlo Museum",
+    "cta": "Book Direct & Save",
+    "explore": "Explore Rooms"
+  },
+  "rooms": {
+    "title": "Our Suites",
+    "subtitle": "Each room is a tribute to a unique alebrije guardian",
+    "from": "From",
+    "perNight": "/night",
+    "guests": "guests",
+    "viewRoom": "View Room",
+    "bookNow": "Book Now"
+  },
+  "about": {
+    "title": "The Spirit of the Alebrije",
+    "subtitle": "Where Mexican heritage meets modern comfort",
+    "description": "Casa Alebrije is a sanctuary where the rich heritage of the Zapotecs of Oaxaca intertwines with the boundless imagination of the alebrijes. Inspired by the ancient civilization of Monte Albán, our hotel revives the belief in tonas and nahuales—spiritual animals that, according to the Zapotecs, protect and guide each person from birth.",
+    "readMore": "Read Our Story"
+  },
+  "location": {
+    "title": "Privileged Location",
+    "subtitle": "In the heart of magical Coyoacán",
+    "fridaKahlo": "5 min walk to Frida Kahlo Museum",
+    "coyoacan": "Historic Coyoacán neighborhood",
+    "markets": "Artisan markets & bohemian cafés",
+    "getDirections": "Get Directions"
+  },
+  "testimonials": {
+    "title": "What Our Guests Say",
+    "subtitle": "Experiences that speak for themselves"
+  },
+  "amenities": {
+    "title": "Amenities & Services",
+    "coffee": "24-hour Coffee Station",
+    "garden": "Tranquil Garden",
+    "spa": "In-room Spa Services",
+    "wifi": "High-speed WiFi",
+    "ac": "Air Conditioning",
+    "tv": "Cable TV"
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "hours": "Reception Hours",
+    "hoursTueSat": "Tue-Sat: 7:00 AM - 10:00 PM",
+    "hoursSunMon": "Sun-Mon: 7:00 AM - 6:00 PM",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved"
+  },
+  "cta": {
+    "checkAvailability": "Check Availability",
+    "bookDirect": "Book Direct"
+  }
+}

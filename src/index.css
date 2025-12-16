@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  /* Casa Alebrije Brand Colors */
+  --color-terracotta-50: #fdf5f3;
+  --color-terracotta-100: #fce8e3;
+  --color-terracotta-200: #fad5cb;
+  --color-terracotta-300: #f5b8a6;
+  --color-terracotta-400: #ed8e72;
+  --color-terracotta-500: #e26d4a;
+  --color-terracotta-600: #c84b31;
+  --color-terracotta-700: #a73d28;
+  --color-terracotta-800: #8a3525;
+  --color-terracotta-900: #733024;
+
+  --color-sand-50: #fdfcfa;
+  --color-sand-100: #faf7f2;
+  --color-sand-200: #f3ece0;
+  --color-sand-300: #e8d5b7;
+  --color-sand-400: #d9bd8c;
+  --color-sand-500: #c9a162;
+  --color-sand-600: #b8894a;
+  --color-sand-700: #99703d;
+  --color-sand-800: #7c5b36;
+  --color-sand-900: #654b2f;
+
+  --color-teal-50: #f0fdfc;
+  --color-teal-100: #ccfbf6;
+  --color-teal-200: #99f6eb;
+  --color-teal-300: #5eead4;
+  --color-teal-400: #2dd4bf;
+  --color-teal-500: #2c7873;
+  --color-teal-600: #0d9488;
+  --color-teal-700: #0f766e;
+  --color-teal-800: #115e59;
+  --color-teal-900: #134e4a;
+
+  --color-brown-50: #faf6f3;
+  --color-brown-100: #f2ebe4;
+  --color-brown-200: #e4d4c7;
+  --color-brown-300: #d2b8a3;
+  --color-brown-400: #bd957a;
+  --color-brown-500: #ad7b5d;
+  --color-brown-600: #9f6a4f;
+  --color-brown-700: #845544;
+  --color-brown-800: #6c473b;
+  --color-brown-900: #3d2914;
+
+  --color-cream: #fdf6ec;
+
+  /* Typography */
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-display: 'Playfair Display', Georgia, serif;
+}
+
+/* Base styles */
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
